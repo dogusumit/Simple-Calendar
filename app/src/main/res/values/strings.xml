@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calendar</string>
+    <string name="oyla">Rate App</string>
+    <string name="market">My Other Apps</string>
+    <string name="cikis">Exit</string>
+    <string name="play_store_id">dogusumit</string>
+</resources>
